@@ -15,8 +15,17 @@ h1 img{
 h2 {
     color: #797e84;
     text-align: center;
-    margin-bottom: 150px;
+    margin-bottom: 50px;
 }
+
+hr{
+border:none;
+ border-top:1px dashed #797e84;
+ height:1px;
+ width:100%;
+ margin-bottom:20px;
+}
+
 
 ul.visitors{
     text-align: center;
@@ -41,18 +50,21 @@ li img{
     
 }
 
-ul.color-block{
+.color-block{
     margin-top: 150px;
     margin-bottom: 150px;
+    
 }
 
 .color{
+   
     display:inline-block;
-    width: 10%;
+    width: 11%;
     height: 500px;
-    border-radius: 15px;
+    border-radius: 25px;
     margin-right: 35px;
     vertical-align: top;
+    border:none;
 
 }
 
